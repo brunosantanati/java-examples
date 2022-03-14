@@ -4,6 +4,10 @@ import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 
+//Compilar:
+//javac me\brunosantana\java_examples\robot\RobotExample.java
+//Executar:
+//java me.brunosantana.java_examples.robot.RobotExample
 public class RobotExample {
 	
 	public static void main(String[] args) throws AWTException {
